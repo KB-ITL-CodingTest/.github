@@ -7,12 +7,12 @@
 
 ### 👩‍💻 **스터디원** 👨‍💻  
 
-| ![(https://github.com/seohyunk09.png)](https://github.com/seohyunk09) | ![김재균](https://github.com/username1.png)](https://github.com/username1) | ![김혜진](https://github.com/chol644.png)](https://github.com/chol644) |
+| [!강서현(https://github.com/seohyunk09.png)](https://github.com/seohyunk09) | [!김재균](https://github.com/username1.png)](https://github.com/username1) | [!김혜진](https://github.com/chol644.png)](https://github.com/chol644) |
 |:----------------------------------:|:----------------------------------:|:----------------------------------:|
 | **강서현 (스터디장)** | **김재균** | **김혜진** |
 | Java | Java | Java |
 
-| ![안세영](https://github.com/username1.png)](https://github.com/username1) | ![이유정](https://github.com/zlwmxkdla.png)](https://github.com/zlwmxkdla) | ![천기오](https://github.com/username1.png)](https://github.com/username1) |
+| [!안세영](https://github.com/username1.png)](https://github.com/username1) | [!이유정](https://github.com/zlwmxkdla.png)](https://github.com/zlwmxkdla) | [!천기오](https://github.com/username1.png)](https://github.com/username1) |
 |:----------------------------------:|:----------------------------------:|:----------------------------------:|
 | **안세영** | **이유정** | **천기오** |
 | Java | Java | Java |
