@@ -7,7 +7,7 @@
 
 ### 👩‍💻 **스터디원** 👨‍💻  
 
-| [!강서현(https://github.com/seohyunk09.png)](https://github.com/seohyunk09) | [!김재균](https://github.com/username1.png)](https://github.com/username1) | [!김혜진](https://github.com/chol644.png)](https://github.com/chol644) |
+| [!강서현](https://github.com/seohyunk09.png)](https://github.com/seohyunk09) | [!김재균](https://github.com/username1.png)](https://github.com/username1) | [!김혜진](https://github.com/chol644.png)](https://github.com/chol644) |
 |:----------------------------------:|:----------------------------------:|:----------------------------------:|
 | **강서현 (스터디장)** | **김재균** | **김혜진** |
 | Java | Java | Java |
