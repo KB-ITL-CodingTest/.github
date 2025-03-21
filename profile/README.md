@@ -44,7 +44,7 @@
 
 <details>
   <summary>✏️ [2025.04.01 - 2025.04.07] week1</summary>
-  - 문제 1  
+  - 문제 1
   - 문제 2  
   - 문제 3  
 </details>
