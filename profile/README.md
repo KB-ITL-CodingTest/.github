@@ -47,7 +47,7 @@
   
   - 촌수 계산 https://www.acmicpc.net/problem/2644 (dfs)
   - 
-  - 문제 3
+  - 
   - CPU https://www.acmicpc.net/problem/16506 (구현)  
 </details>
 
