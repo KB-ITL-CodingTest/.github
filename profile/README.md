@@ -44,9 +44,11 @@
 
 <details>
   <summary>✏️ [2025.04.01 - 2025.04.07] week1</summary>
-  - 촌수 계산 https://www.acmicpc.net/problem/2644
-  - 문제 2  
-  - 문제 3  
+  
+  - 촌수 계산 https://www.acmicpc.net/problem/2644 (dfs)
+  - CPU https://www.acmicpc.net/problem/16506 (구현)
+  - 문제 3
+  - CPU https://www.acmicpc.net/problem/16506 (구현)  
 </details>
 
 <details>
