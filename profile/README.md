@@ -54,7 +54,7 @@
   - 나무조각 https://www.acmicpc.net/problem/2947 (브론즈1)
   - CPU https://www.acmicpc.net/problem/16506 (실버5)
   - 배열 복원하기 [https://www.acmicpc.net/problem/17276](https://www.acmicpc.net/problem/16967) (실버3)
-  - 삼성2017 하반기 오전2번 https://www.acmicpc.net/problem/14890 
+  - 로봇 청소기 https://www.acmicpc.net/problem/14503 (삼성 기출 골드5)
 </details>
 
 <details>
