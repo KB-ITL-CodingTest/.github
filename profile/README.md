@@ -47,8 +47,14 @@
   
   - 촌수 계산 https://www.acmicpc.net/problem/2644 (dfs)
   - 토마토 https://www.acmicpc.net/problem/7576 (bfs)
-  - 
-  - CPU https://www.acmicpc.net/problem/16506 (구현)  
+
+
+[구현]
+
+  - 나무조각 https://www.acmicpc.net/problem/2947 (브론즈1)
+  - CPU https://www.acmicpc.net/problem/16506 (실버5)
+  - 배열 복원하기 [https://www.acmicpc.net/problem/17276](https://www.acmicpc.net/problem/16967) (실버3)
+  - 삼성2017 하반기 오전2번 https://www.acmicpc.net/problem/14890 
 </details>
 
 <details>
