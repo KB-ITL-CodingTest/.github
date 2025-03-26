@@ -45,6 +45,7 @@
   - 토마토 https://www.acmicpc.net/problem/7576 (bfs)
   - DFS와 BFS https://www.acmicpc.net/problem/1260
   - 숨바꼭질 https://www.acmicpc.net/problem/1697
+  - 적록색약 https://www.acmicpc.net/problem/10026
 
 [구현]
 
