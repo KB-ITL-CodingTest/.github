@@ -38,22 +38,28 @@
 
 <details>
   <summary>✏️ [2025.04.01 - 2025.04.07] week1</summary>
+<br>
+
+| 문제 번호 | 문제 이름 | 난이도 | 출처 | 리뷰자 | 
+|-------|----------------|--------|------|-------|
+| 1     | [촌수 계산](https://www.acmicpc.net/problem/2644)           | 🟢 실버2 | 이유정 | 백준 |
+| 2     | [토마토](https://www.acmicpc.net/problem/7576)              | 🟡 골드5 |          | 백준 |
+| 3     | [DFS와 BFS](https://www.acmicpc.net/problem/1260)           | 🟢 실버2 | 강서현 | 백준 |
+| 4     | [숨바꼭질](https://www.acmicpc.net/problem/1697)            | 🟢 실버1 | 김혜진 | 백준 |
+| 5     | [적록색약](https://www.acmicpc.net/problem/10026)              | 🟡 실버1 | 김혜진 | 백준 |
+| 6     | [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)    | 🟢 LV2 | 강서현 |프로그래머스|
 
 
-  
-  - 촌수 계산 https://www.acmicpc.net/problem/2644 (dfs)
-  - 토마토 https://www.acmicpc.net/problem/7576 (bfs)
-  - DFS와 BFS https://www.acmicpc.net/problem/1260
-  - 숨바꼭질 https://www.acmicpc.net/problem/1697
-  - 적록색약 https://www.acmicpc.net/problem/10026
-  - 타겟넘버 https://school.programmers.co.kr/learn/courses/30/lessons/43165
+**<구현>**
+| 문제 번호 | 문제 이름     | 난이도 | 출처 |
+|-----------|----------------|--------|------------|
+| 1   | [나무조각](https://www.acmicpc.net/problem/2644)           | 🟤 브론즈1 |  백준 |
+| 2   | [CPU](https://www.acmicpc.net/problem/7576)              | 🟢 실버5 | 백준 |
+| 3   | [배열 복원하기](https://www.acmicpc.net/problem/1260)           | 🟢 실버3 | 백준 |
+| 4   | [로봇 청소기](https://www.acmicpc.net/problem/1697)            | 🟡 골드5 | 삼성 기출 |
+| 5   | [컴베이어벨트위의 로봇](https://www.acmicpc.net/problem/20055)      | 🟡 골드5 |  삼성 기출 | 
 
-[구현]
 
-  - 나무조각 https://www.acmicpc.net/problem/2947 (브론즈1)
-  - CPU https://www.acmicpc.net/problem/16506 (실버5)
-  - 배열 복원하기 [https://www.acmicpc.net/problem/17276](https://www.acmicpc.net/problem/16967) (실버3)
-  - 로봇 청소기 https://www.acmicpc.net/problem/14503 (삼성 기출 골드5)
 </details>
 
 <details>
