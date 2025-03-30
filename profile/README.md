@@ -43,11 +43,11 @@
 | 문제 번호 | 문제 이름 | 난이도 | 출처 | 리뷰자 | 
 |-------|----------------|--------|------|-------|
 | 1     | [촌수 계산](https://www.acmicpc.net/problem/2644)           | 🟢 실버2 | 이유정 | 백준 |
-| 2     | [토마토](https://www.acmicpc.net/problem/7576)              | 🟡 골드5 |          | 백준 |
+| 2     | [토마토](https://www.acmicpc.net/problem/7576)              | 🟡 골드5 | 천기오 | 백준 |
 | 3     | [DFS와 BFS](https://www.acmicpc.net/problem/1260)           | 🟢 실버2 | 강서현 | 백준 |
 | 4     | [숨바꼭질](https://www.acmicpc.net/problem/1697)            | 🟢 실버1 | 김혜진 | 백준 |
-| 5     | [적록색약](https://www.acmicpc.net/problem/10026)              | 🟡 실버1 | 김혜진 | 백준 |
-| 6     | [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)    | 🟢 LV2 | 강서현 |프로그래머스|
+| 5     | [적록색약](https://www.acmicpc.net/problem/10026)              | 🟡 실버1 | 안세영 | 백준 |
+| 6     | [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)    | 🟢 LV2 | 김재균 |프로그래머스|
 
 
 **<구현>**
