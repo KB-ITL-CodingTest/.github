@@ -28,7 +28,7 @@
 
 
 ## 🚀 **스터디 진행 방식**
-1. **매주 -요일**: 문제 선정  
+1. **매주 -요일**: 문제 선정  ( 개인별 수준 고려해서 원하는 문제 선정)
 2. **대면 모임 전날까지 풀이 후 개인 레포지에 코드 제출**  
 3. **서로 코드 리뷰 & 피드백 제공**  
 4. **효율적인 풀이법 공유**
@@ -37,7 +37,7 @@
 ## 📂 스터디 일정
 
 <details>
-  <summary>✏️ [2025.04.01 - 2025.04.07] week1</summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.01 - 2025.04.07] week1</span></strong></summary>
 <br>
 
 | 문제 번호 | 문제 이름 | 난이도 | 출처 | 리뷰자 | 
@@ -62,63 +62,63 @@
 </details>
 
 <details>
-  <summary>✏️ [2025.04.08 - 2025.04.14] week2</summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.08 - 2025.04.14] week2</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary>✏️ [2025.04.15 - 2025.04.21] week3</summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.15 - 2025.04.21] week3</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary>✏️ [2025.04.22 - 2025.04.28] week4</summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.22 - 2025.04.28] week4</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary>✏️ [2025.04.29 - 2025.05.05] week5</summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.29 - 2025.05.05] week5</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary>✏️ [2025.05.06 - 2025.05.12] week6</summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.06 - 2025.05.12] week6</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary>✏️ [2025.05.13 - 2025.05.19] week7</summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.13 - 2025.05.19] week7</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary>✏️ [2025.05.20 - 2025.05.26] week8</summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.20 - 2025.05.26] week8</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary>✏️ [2025.05.27 - 2025.06.02] week9</summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.27 - 2025.06.02] week9</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary>✏️ [2025.06.03 - 2025.06.09] week10</summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.06.03 - 2025.06.09] week10</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
