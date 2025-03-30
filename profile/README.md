@@ -40,7 +40,7 @@
   <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.01 - 2025.04.07] week1</span></strong></summary>
 <br>
 
-| 문제 번호 | 문제 이름 | 난이도 | 출처 | 리뷰자 | 
+| 문제 번호 | 문제 이름 | 난이도 | 리뷰자 | 출처 | 
 |-------|----------------|--------|------|-------|
 | 1     | [DFS와 BFS](https://www.acmicpc.net/problem/1260)            | 🟢 실버2 | 강서현 | 백준 |
 | 2     | [숨바꼭질](https://www.acmicpc.net/problem/1697)                | 🟢 실버1 | 김혜진 | 백준 |
