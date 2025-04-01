@@ -53,10 +53,10 @@
 **<구현>** 최소 1문제 이상 풀어오기
 | 문제 번호 | 문제 이름     | 난이도 | 출처 |
 |-----------|----------------|--------|------------|
-| 1   | [나무조각](https://www.acmicpc.net/problem/2644)           | 🟤 브론즈1 |  백준 |
-| 2   | [CPU](https://www.acmicpc.net/problem/7576)              | 🟢 실버5 | 백준 |
-| 3   | [배열 복원하기](https://www.acmicpc.net/problem/1260)           | 🟢 실버3 | 백준 |
-| 4   | [로봇 청소기](https://www.acmicpc.net/problem/1697)            | 🟡 골드5 | 삼성 기출 |
+| 1   | [나무조각](https://www.acmicpc.net/problem/2947)           | 🟤 브론즈1 |  백준 |
+| 2   | [CPU](https://www.acmicpc.net/problem/16506)              | 🟢 실버5 | 백준 |
+| 3   | [배열 복원하기](https://www.acmicpc.net/problem/16967)           | 🟢 실버3 | 백준 |
+| 4   | [로봇 청소기](https://www.acmicpc.net/problem/14503)            | 🟡 골드5 | 삼성 기출 |
 | 5   | [컴베이어벨트위의 로봇](https://www.acmicpc.net/problem/20055)      | 🟡 골드5 |  삼성 기출 | 
 
 
