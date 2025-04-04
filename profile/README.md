@@ -38,7 +38,7 @@
 ## 📂 스터디 일정
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.01 - 2025.04.07] week1</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.01 - 2025.04.07] week1 - DFS/BFS</span></strong></summary>
 <br>
 
 | 문제 번호 | 문제 이름 | 난이도 | 리뷰자 | 출처 | 
@@ -63,7 +63,7 @@
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.08 - 2025.04.14] week2</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.08 - 2025.04.14] week2 - 스택/큐</span></strong></summary>
 <br>
   
   **<공통 문제>**
@@ -84,62 +84,61 @@
   **<개인별 문제 큐>**
   | 문제 번호 | 문제 이름 | 난이도 | 리뷰자 | 출처 | 
 |-------|----------------|--------|------|-------|
-| 1     |                 |  | 이유정 |  |
+| 1     | [가희와 은행](https://www.acmicpc.net/problem/22234)                | 🟡 골드5 | 이유정 | 백준 |
 | 2     |                 |  | 김혜진 |  |
-| 3     | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                | 🟢LV2 | 김재균 | 프로그래머스 |
+| 3     | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | 🟢LV2 | 김재균 | 프로그래머스 |
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.15 - 2025.04.21] week3</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.15 - 2025.04.21] week3 - 투포인터, 슬라이딩 윈도우</span></strong></summary>
+
+  
+</details>
+
+<details>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.22 - 2025.04.28] week4 - DFS/BFS</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.22 - 2025.04.28] week4</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.29 - 2025.05.05] week5 - DFS/BFS</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.29 - 2025.05.05] week5</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.06 - 2025.05.12] week6 - 백트래킹</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.06 - 2025.05.12] week6</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.13 - 2025.05.19] week7 - 백트래킹</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.13 - 2025.05.19] week7</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.20 - 2025.05.26] week8 - 다이나믹 프로그래밍</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.20 - 2025.05.26] week8</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.27 - 2025.06.02] week9 - 다이나믹 프로그래밍</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.27 - 2025.06.02] week9</span></strong></summary>
-  - 문제 1  
-  - 문제 2  
-  - 문제 3  
-</details>
-
-<details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.06.03 - 2025.06.09] week10</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.06.03 - 2025.06.09] week10 - 다이나믹 프로그래밍</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
