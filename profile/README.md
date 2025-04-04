@@ -38,7 +38,7 @@
 ## 📂 스터디 일정
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.01 - 2025.04.07] week1 - DFS/BFS</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.03.27 - 2025.04.03] week1 - DFS/BFS</span></strong></summary>
 <br>
 
 | 문제 번호 | 문제 이름 | 난이도 | 리뷰자 | 출처 | 
@@ -63,7 +63,7 @@
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.08 - 2025.04.14] week2 - 스택/큐</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.04 - 2025.04.10] week2 - 스택/큐</span></strong></summary>
 <br>
   
   **<공통 문제>**
@@ -90,61 +90,80 @@
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.15 - 2025.04.21] week3 - 투포인터, 슬라이딩 윈도우</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.11 - 2025.04.17] week3 - 투포인터, 슬라이딩 윈도우</span></strong></summary>
 
   
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.22 - 2025.04.28] week4 - DFS/BFS</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.18 - 2025.04.24] week4 - DFS/BFS</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.29 - 2025.05.05] week5 - DFS/BFS</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.25 - 2025.05.01] week5 - DFS/BFS</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.06 - 2025.05.12] week6 - 백트래킹</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.02 - 2025.05.08] week6 - 백트래킹</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.13 - 2025.05.19] week7 - 백트래킹</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.09 - 2025.05.15] week7 - 백트래킹</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.20 - 2025.05.26] week8 - 다이나믹 프로그래밍</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.16 - 2025.05.22] week8 - 다이나믹 프로그래밍</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.27 - 2025.06.02] week9 - 다이나믹 프로그래밍</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.23 - 2025.05.29] week9 - 다이나믹 프로그래밍</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
 <details>
-  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.06.03 - 2025.06.09] week10 - 다이나믹 프로그래밍</span></strong></summary>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.05.30 - 2025.06.05] week10 - 다이나믹 프로그래밍</span></strong></summary>
   - 문제 1  
   - 문제 2  
   - 문제 3  
 </details>
 
+<details>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.06.06 - 2025.06.12] week11 - 그리디</span></strong></summary>
+  - 문제 1  
+  - 문제 2  
+  - 문제 3  
+</details>
 
+<details>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.06.13 - 2025.06.19] week12 - 이분탐색</span></strong></summary>
+  - 문제 1  
+  - 문제 2  
+  - 문제 3  
+</details>
+
+<details>
+  <summary><strong><span style="font-size: 1.2em;">✏️ [2025.06.20 - 2025.06.26] week13 - 브루트포스</span></strong></summary>
+  - 문제 1  
+  - 문제 2  
+  - 문제 3  
+</details>
 ## **💡 문의**
 스터디 관련 문의는 `Issues` 또는 `스터디장`에게 연락 주세요!  
 📧 Email: your-email@example.com
