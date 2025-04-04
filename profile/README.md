@@ -85,7 +85,7 @@
   | 문제 번호 | 문제 이름 | 난이도 | 리뷰자 | 출처 | 
 |-------|----------------|--------|------|-------|
 | 1     | [가희와 은행](https://www.acmicpc.net/problem/22234)                | 🟡 골드5 | 이유정 | 백준 |
-| 2     |                 |  | 김혜진 |  |
+| 2     | [식당 입구 대기 줄](https://www.acmicpc.net/problem/26042)                |🟢실버5  | 김혜진 | 백준 |
 | 3     | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | 🟢LV2 | 김재균 | 프로그래머스 |
 </details>
 
