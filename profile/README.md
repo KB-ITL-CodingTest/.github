@@ -91,7 +91,28 @@
 
 <details>
   <summary><strong><span style="font-size: 1.2em;">✏️ [2025.04.11 - 2025.04.17] week3 - 투포인터, 슬라이딩 윈도우</span></strong></summary>
+<br>
+**<공통 문제>**
+  | 문제 번호 | 문제 이름     | 난이도 | 출처 |
+|-----------|----------------|--------|------------|
+| 1   | [스택 수열](https://www.acmicpc.net/problem/1874)           | 🟢 실버2 |  백준 |
+| 2   | [카드2](https://www.acmicpc.net/problem/2164)              | 🟢 실버4 | 백준 |
+| 3   | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)          | LV1 | 프로그래머스 |
 
+
+  **<개인별 문제 투 포인터>**
+  | 문제 번호 | 문제 이름 | 난이도 | 리뷰자 | 출처 | 
+|-------|----------------|--------|------|-------|
+| 1     | [탑](https://www.acmicpc.net/problem/2493)            | 🟡 골드5 | 안세영 | 백준 |
+| 2     | [문자열 폭발](https://www.acmicpc.net/problem/9935)               | 🟡 골드4 | 천기오 | 백준 |
+| 3     | [제로](https://www.acmicpc.net/problem/10773)                |🟢실버4 | 강서현 | 백준 |
+
+  **<개인별 문제 슬라이딩 윈도우>**
+  | 문제 번호 | 문제 이름 | 난이도 | 리뷰자 | 출처 | 
+|-------|----------------|--------|------|-------|
+| 1     | [가희와 은행](https://www.acmicpc.net/problem/22234)                | 🟡 골드5 | 이유정 | 백준 |
+| 2     | [식당 입구 대기 줄](https://www.acmicpc.net/problem/26042)                |🟢실버5  | 김혜진 | 백준 |
+| 3     | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | 🟢LV2 | 김재균 | 프로그래머스 |
   
 </details>
 
