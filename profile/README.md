@@ -113,7 +113,7 @@
 |-------|----------------|--------|------|-------|
 | 1     | [회전초밥](http://acmicpc.net/problem/15961)               | 🟡골드4  | 이유정 | 백준 |
 | 2     |[우당탕탕 영화예매](https://www.acmicpc.net/problem/29700)|🟢실버4| 김혜진 | 백준 |
-| 3     |                | 🟢  | 김재균  | 프로그래머스 |
+| 3     |[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)| 🟢LV2  | 김재균  | 프로그래머스 |
   
 </details>
 
