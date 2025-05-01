@@ -176,7 +176,7 @@
 **<공통 문제>**
 | 문제 번호 | 문제 이름 | 난이도  | 출처 | 
 |-----|----------------|--------|-----|
-| 1   | [부분 수열의 합] (https://www.acmicpc.net/problem/1182)               | 🟢실버2    | 백준    |
+| 1   | [부분 수열의 합](https://www.acmicpc.net/problem/1182)               | 🟢실버2    | 백준    |
 | 2   | [근손실](https://www.acmicpc.net/problem/18429)               | 🟢 실버3   | 백준    |
 | 3   |[N-Queen](https://www.acmicpc.net/problem/9663)| 🟡골드4    |  백준   |
 
