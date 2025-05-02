@@ -189,7 +189,7 @@
 | 2     |                | 🟡  | 김재균 |  |
 | 3     | [2048(Easy)](https://www.acmicpc.net/problem/12100)               | 🟡 골드1  | 안세영 | 백준  |
 | 4     | [감시](https://www.acmicpc.net/problem/15683)               | 🟡 골드3  | 이유정 |백준  |
-| 5     |                | 🟢  | 천기오 |  | 
+| 5     | [사다리 조작](https://www.acmicpc.net/problem/15684)      | 🟡 골드3  | 천기오 | 백준 | 
 
 
 </details>
