@@ -186,7 +186,7 @@
 | 문제 번호 | 문제 이름 | 난이도 | 리뷰자 | 출처 | 
 |-------|----------------|--------|------|-------|
 | 1     |                | 🟡  | 강서현 |  |
-| 2     |                | 🟡  | 김재균 |  |
+| 2     | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512?language=java)               | 🟢lv.2  | 김재균 | 프로그래머스 |
 | 3     | [2048(Easy)](https://www.acmicpc.net/problem/12100)               | 🟡 골드1  | 안세영 | 백준  |
 | 4     | [감시](https://www.acmicpc.net/problem/15683)               | 🟡 골드3  | 이유정 |백준  |
 | 5     | [사다리 조작](https://www.acmicpc.net/problem/15684)      | 🟡 골드3  | 천기오 | 백준 | 
