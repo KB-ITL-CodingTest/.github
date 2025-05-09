@@ -213,7 +213,7 @@
 | 1     | [카드놓기](https://www.acmicpc.net/problem/5568) | 🟢실버4  | 강서현 | 백준  |
 | 2     |                | 🟡  | 김재균 |  |
 | 3     |                | 🟡  | 안세영 |  |
-| 4     | [양과늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343?language=python3)               | 🟢LV2  | 이유정 |프로그래머스  |
+| 4     | [양과늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343?language=python3)               | 🟢LV3  | 이유정 |프로그래머스  |
 | 5     | [색종이 붙이기](https://www.acmicpc.net/problem/17136)  | 🟡 골드2  | 천기오 | 백준 |  
 </details>
 
