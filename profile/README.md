@@ -202,9 +202,9 @@
 **<공통 문제>**
 | 문제 번호 | 문제 이름 | 난이도  | 출처 | 
 |-----|----------------|--------|-----|
-| 1   |                | 🟢    |     |
-| 2   |                | 🟢    |     |
-| 3   |                | 🟢    |     |
+| 1   |[로마숫자만들기](https://www.acmicpc.net/problem/16922)                | 🟢실버3    |백준     |
+| 2   | [매직스퀘어로변경하기](https://www.acmicpc.net/problem/16945)               | 🟢 실버2   |백준     |
+| 3   | [N과M (10)](https://www.acmicpc.net/problem/15664)               | 🟢실버2    |백준     |
 
 
   **<백트래킹>**
@@ -213,7 +213,7 @@
 | 1     | [카드놓기](https://www.acmicpc.net/problem/5568) | 🟢실버4  | 강서현 | 백준  |
 | 2     |                | 🟡  | 김재균 |  |
 | 3     |                | 🟡  | 안세영 |  |
-| 4     |                | 🟢  | 이유정 |  |
+| 4     | [양과늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343?language=python3)               | 🟢LV2  | 이유정 |프로그래머스  |
 | 5     | [색종이 붙이기](https://www.acmicpc.net/problem/17136)  | 🟡 골드2  | 천기오 | 백준 |  
 </details>
 
