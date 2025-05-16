@@ -236,7 +236,7 @@
 | 2     |                | 🟡  | 김재균 |  |
 | 3     |                | 🟡  | 안세영 |  |
 | 4     |[뮤탈리스크](https://www.acmicpc.net/problem/12869)                | 🟡골드4  | 이유정 |  |
-| 5     |                | 🟢  | 천기오 |  |  
+| 5     |[팰린드롬?](https://www.acmicpc.net/problem/10942)      | 🟡골드4  | 천기오 | 백준 |  
 </details>
 
 <details>
