@@ -234,8 +234,8 @@
 |-------|----------------|--------|------|-------|
 | 1     | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)               | 🟤브론즈1  | 강서현 | 백준 |
 | 2     | [설탕 배달](https://www.acmicpc.net/problem/2839)              | 🟤브론즈1 | 김재균 | 백준 |
-| 3     | [LCS 3](https://www.acmicpc.net/problem/1958)               | 🟡 골드 4  | 안세영 |  |
-| 4     |[뮤탈리스크](https://www.acmicpc.net/problem/12869)                | 🟡골드4  | 이유정 |  |
+| 3     | [LCS 3](https://www.acmicpc.net/problem/1958)               | 🟡 골드4  | 안세영 | 백준 |
+| 4     |[뮤탈리스크](https://www.acmicpc.net/problem/12869)                | 🟡골드4  | 이유정 | 백준 |
 | 5     |[팰린드롬?](https://www.acmicpc.net/problem/10942)      | 🟡골드4  | 천기오 | 백준 |  
 </details>
 
