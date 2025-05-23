@@ -255,7 +255,7 @@
 | 문제 번호 | 문제 이름 | 난이도 | 리뷰자 | 출처 | 
 |-------|----------------|--------|------|-------|
 | 1     |[Fractions are better when continued](https://www.acmicpc.net/problem/32437)                | 🟤브론즈1  | 강서현 | 백준 |
-| 2     |                | 🟡  | 김재균 |  |
+| 2     |[1,2,3 더하기](https://www.acmicpc.net/problem/9095)                | 🟢실버3 | 김재균 | 백준 |
 | 3     | [할 일 정하기 1](https://www.acmicpc.net/problem/1311)               | 🟡 골드 1 | 안세영 | 백준 |
 | 4     |[가장 큰 정사각형](https://www.acmicpc.net/problem/1915)                | 🟡골드 4  | 이유정 |백준  |
 | 5     |                | 🟢  | 천기오 |  |  
