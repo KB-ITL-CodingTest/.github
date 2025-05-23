@@ -246,9 +246,9 @@
 **<공통 문제>**
 | 문제 번호 | 문제 이름 | 난이도  | 출처 | 
 |-----|----------------|--------|-----|
-| 1   |                | 🟢    |     |
-| 2   |                | 🟢    |     |
-| 3   |                | 🟢    |     |
+| 1   |[수열](https://www.acmicpc.net/problem/2491)                | 🟢실버4    |백준     |
+| 2   |[대한민국을 지키는 가장 긴 힘](https://www.acmicpc.net/problem/31263)                | 🟢실버3    | 백준    |
+| 3   |[진우의 달 여행](https://www.acmicpc.net/problem/17484)                | 🟢실버3    |  백준   |
 
 
   **<다이나믹 프로그래밍>**
@@ -257,7 +257,7 @@
 | 1     |[Fractions are better when continued](https://www.acmicpc.net/problem/32437)                | 🟤브론즈1  | 강서현 | 백준 |
 | 2     |                | 🟡  | 김재균 |  |
 | 3     | [할 일 정하기 1](https://www.acmicpc.net/problem/1311)               | 🟡 골드 1 | 안세영 | 백준 |
-| 4     |                | 🟢  | 이유정 |  |
+| 4     |[가장 큰 정사각형](https://www.acmicpc.net/problem/1915)                | 🟡골드 4  | 이유정 |백준  |
 | 5     |                | 🟢  | 천기오 |  |  
 </details> 
 </details>
