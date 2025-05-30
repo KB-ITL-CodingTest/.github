@@ -281,7 +281,7 @@
 | 2     |                | 🟡  | 김재균 |  |
 | 3     | [로또](https://www.acmicpc.net/problem/2758)               | 🟡 골드4 | 안세영 | 백준 |
 | 4     |                | 🟢  | 이유정 |  |
-| 5     |                | 🟢  | 천기오 |  |   
+| 5     | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | 🟡 골드3 | 천기오 | 백준 |   
 </details> 
 </details>
 
