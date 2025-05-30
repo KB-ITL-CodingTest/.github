@@ -269,9 +269,9 @@
 **<공통 문제>**
 | 문제 번호 | 문제 이름 | 난이도  | 출처 | 
 |-----|----------------|--------|-----|
-| 1   |                | 🟢    |     |
-| 2   |                | 🟢    |     |
-| 3   |                | 🟢    |     |
+| 1   |[피보나치 수의 확장](https://www.acmicpc.net/problem/1788)                | 🟢실버3    |백준     |
+| 2   |[2xn타일링](https://www.acmicpc.net/problem/11726)                | 🟢실버3    |백준     |
+| 3   |[이친수](https://www.acmicpc.net/problem/2193)                | 🟢 실버3   |백준     |
 
 
   **<다이나믹 프로그래밍>**
@@ -280,7 +280,7 @@
 | 1     |                | 🟡  | 강서현 |  |
 | 2     |                | 🟡  | 김재균 |  |
 | 3     | [로또](https://www.acmicpc.net/problem/2758)               | 🟡 골드4 | 안세영 | 백준 |
-| 4     |                | 🟢  | 이유정 |  |
+| 4     | [가장 긴 바이토닉 부분수열](https://www.acmicpc.net/problem/11054)               | 🟡 골드4  | 이유정 |백준 |
 | 5     | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | 🟡 골드3 | 천기오 | 백준 |   
 </details> 
 </details>
