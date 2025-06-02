@@ -278,7 +278,7 @@
 | 문제 번호 | 문제 이름 | 난이도 | 리뷰자 | 출처 | 
 |-------|----------------|--------|------|-------|
 | 1     |                | 🟡  | 강서현 |  |
-| 2     |                | 🟡  | 김재균 |  |
+| 2     | [1로 만들기](https://www.acmicpc.net/problem/1463)               | 🟢 실버3  | 김재균 | 백준 |
 | 3     | [로또](https://www.acmicpc.net/problem/2758)               | 🟡 골드4 | 안세영 | 백준 |
 | 4     | [가장 긴 바이토닉 부분수열](https://www.acmicpc.net/problem/11054)               | 🟡 골드4  | 이유정 |백준 |
 | 5     | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | 🟡 골드3 | 천기오 | 백준 |   
