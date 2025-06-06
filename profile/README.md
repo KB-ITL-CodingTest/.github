@@ -293,7 +293,7 @@
 | 문제 번호 | 문제 이름 | 난이도  | 출처 | 
 |-----|----------------|--------|-----|
 | 1   |  [회의실 배정](https://www.acmicpc.net/problem/1931)              | 🟢실버1    |백준     |
-| 2   | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)               | 🟢 실버2   | 백    |
+| 2   | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)               | 🟢 실버2   | 백준    |
 | 3   |[햄버거 분배](https://www.acmicpc.net/problem/19941)                | 🟢실버3    |    백준 |
 
 
