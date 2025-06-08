@@ -304,7 +304,7 @@
 | 2     |                | 🟡  | 김재균 |  |
 | 3     | [센서](https://www.acmicpc.net/problem/2212)               | 🟡 골드5 | 안세영 | 백준 |
 | 4     |[강의실 배정](https://www.acmicpc.net/problem/11000)                | 🟡 골드5  | 이유정 | 백준 |
-| 5     | [크게 만들기](https://www.acmicpc.net/problem/2812) | 🟡 골드5 | 천기오 | 백준 |  
+| 5     | [크게 만들기](https://www.acmicpc.net/problem/2812) | 🟡 골드3 | 천기오 | 백준 |  
 </details> 
 </details>
 
