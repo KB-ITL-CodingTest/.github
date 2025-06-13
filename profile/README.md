@@ -324,7 +324,7 @@
 | 문제 번호 | 문제 이름 | 난이도 | 리뷰자 | 출처 | 
 |-------|----------------|--------|------|-------|
 | 1     |    [예산](https://www.acmicpc.net/problem/2512)            |  🟢실버2  | 강서현 | 백준 |
-| 2     |                | 🟡  | 안세영 |  |
+| 2     |    [세 용액](https://www.acmicpc.net/problem/2473)            | 🟡 골드3  | 안세영 | 백준 |
 | 3     | [가장 긴 증가하는 부분 수열2](https://www.acmicpc.net/problem/12015)               | 🟡골드2  | 이유정 |백준  |
 | 4     | [K번째 수](https://www.acmicpc.net/problem/1300)  | 🟡 골드1 | 천기오 | 백준 |   
 </details> 
