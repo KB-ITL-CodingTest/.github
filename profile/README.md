@@ -348,7 +348,7 @@
 | 1     |                | 🟡  | 강서현 |  |
 | 2     |                | 🟡  | 안세영 |  |
 | 3     |[고층건물](https://www.acmicpc.net/problem/1027)                | 🟡골드4  | 이유정 | 백준 |
-| 4     |                | 🟢  | 천기오 |  | 
+| 4     | [다리 만들기2](https://www.acmicpc.net/problem/17472) | 🟡골드1  | 천기오 | 백준 | 
 </details> 
 </details>
 
